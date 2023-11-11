@@ -1,0 +1,111 @@
+body {
+    font: lighter 1.4vw Helvetica, sans-serif;
+    padding: auto;
+    margin: 2vw;
+    border: 1px solid  #857b74;
+    background-color: f4f2f0;
+}
+h1 {
+    font: 4em Helvetica, sans-serif;
+    color: #857b74;
+    letter-spacing:0.2vw;
+}
+hr {
+    color:  #a99282;
+    border: 0.1vw solid #d3c0b2;
+}
+h2 {
+    font: 2vw Helvetica, sans-serif;
+}
+h3 {
+    font: 2vw Helvetica, sans-serif;
+}
+h4 {
+    font: 1.3vw Helvetica, sans-serif;
+}
+h5 {
+    font: 1.2vw Helvetica, sans-serif;
+    text-transform:uppercase;
+    letter-spacing:0.2vw;
+}
+h6 {
+    font: 2vw Helvetica, sans-serif;
+}
+p {
+    font: black 1vw Helvetica, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 0.1vw;
+    line-height:1.5;
+}
+ul {
+    list-style:none;
+}
+.increase {
+    font-size:larger;
+}
+.decrease {
+    font-size:smaller;
+}
+.heavyweight {
+    font-weight:bolder;
+}
+.lightweight {
+    font-weight:lighter;
+}
+.center {
+    text-align:center;
+}
+.contain {
+    padding: 1vw;
+    border: 0px dashed black;
+}
+.threequart {
+    width:75%;
+}
+.onequart {
+    width:25%;
+}
+.halfcol {
+    width:50%;
+}
+.onethird {
+    width:30%;
+}
+.flex {
+    display:flex;
+}
+.cap {
+    text-transform:uppercase;
+}
+.floatr {
+    float:right;
+}
+.floatl {
+    float:left;
+}
+.containopad {
+    border: 0px dashed blue;
+}
+.indent {
+    padding-left:1vw;
+    padding-right:1vw;
+}
+.italic {
+    font-style:italic;
+}
+.inline {
+    display:inline;
+}
+.justify {
+    justify-content:center;
+}
+.pad {
+    padding:1vw;
+}
+.margin {
+    margin:1vw;
+}
+.cotton {
+    padding:1vw;
+    background-color:#d7d2ce;
+}
